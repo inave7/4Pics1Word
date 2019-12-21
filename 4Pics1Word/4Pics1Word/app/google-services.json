@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277345141501",
+    "firebase_url": "https://pics1word-5d4dd.firebaseio.com",
+    "project_id": "pics1word-5d4dd",
+    "storage_bucket": "pics1word-5d4dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277345141501:android:63ff5b658a7838b017b494",
+        "android_client_info": {
+          "package_name": "com.belaku.a4pics1word"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277345141501-5v089beq9cshmojudq55uacgusfjt0cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdBTe_MWZqcyNfPJYQOBW1Md28YDUiPQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277345141501-5v089beq9cshmojudq55uacgusfjt0cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+include ':app', ':4p1w', ':sh'
+rootProject.name='4Pics1Word'

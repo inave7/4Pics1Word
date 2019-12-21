@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124546088838",
+    "firebase_url": "https://ps1w-ae67c.firebaseio.com",
+    "project_id": "ps1w-ae67c",
+    "storage_bucket": "ps1w-ae67c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124546088838:android:e1f61e80022d2bcbab3607",
+        "android_client_info": {
+          "package_name": "com.belaku.a4p1w"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124546088838-kmiut88j9s4g9pc6ko2rr91oq5qbvp6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.belaku.a4p1w",
+            "certificate_hash": "c1910b5749c9e0c543b680e34a0e2ff9766e1a87"
+          }
+        },
+        {
+          "client_id": "124546088838-ehrn9qa6sag0nj45ui5hh2opiuifqaod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIwcRG4vTKn5Zn5wKb5jThgtiBvFOjw-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124546088838-ehrn9qa6sag0nj45ui5hh2opiuifqaod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
